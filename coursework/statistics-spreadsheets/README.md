@@ -35,6 +35,12 @@ This folder documents spreadsheet-based assignments and practice files from the 
 | `oxford_comma_xlsx.xlsx` | Spreadsheet cleaning and formatting practice. |
 | `Book2.xlsx` | General workbook practice. |
 
+## Workbook Files
+
+| File | Topic |
+| --- | --- |
+| `workbooks/book2.xlsx` | General spreadsheet practice file. |
+
 ## Methods and Tools
 
 - Spreadsheet formulas
