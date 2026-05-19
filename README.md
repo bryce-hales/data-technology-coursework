@@ -1,10 +1,10 @@
 # Data Technology Coursework Portfolio
 
-This repository is a collection of Google Colab notebooks, spreadsheet labs, SQL assignments, datasets, and practice files used for data technology coursework and hands-on analytics learning.
+This repository is a collection of Google Colab notebooks, spreadsheet labs, SQL assignments, R scripts, R Markdown reports, Tableau workbook documentation, datasets, and practice files used for data technology coursework and hands-on analytics learning.
 
 ## Purpose
 
-The goal of this repository is to organize coursework and project artifacts while demonstrating practical experience with Python, spreadsheets, SQL, statistics, data analysis tools, and repeatable workflows.
+The goal of this repository is to organize coursework and project artifacts while demonstrating practical experience with Python, R, spreadsheets, SQL, statistics, data visualization, data analysis tools, and repeatable workflows.
 
 ## Repository Structure
 
@@ -14,6 +14,8 @@ The goal of this repository is to organize coursework and project artifacts whil
 | `coursework/datasets/iris.csv` | Iris dataset used for statistics, scatter plot, and classification-style practice. |
 | `coursework/statistics-spreadsheets/` | Spreadsheet coursework notes and assignment inventory for statistics and data analysis labs. |
 | `coursework/sql/` | SQL coursework, query assignments, lab scripts, query result exports, and notes about local database resources. |
+| `coursework/r/` | R coursework, ggplot2 practice, R Markdown work, hypothesis testing, and data visualization exercises. |
+| `coursework/tableau/` | Tableau coursework inventory for chart creation, filters, dashboard design, and advanced Tableau practice. |
 
 ## Coursework Areas
 
@@ -38,20 +40,46 @@ The goal of this repository is to organize coursework and project artifacts whil
 - Sorting and limiting records
 - Aggregate functions
 - GROUP BY and HAVING
-- Query templates and completed assignment scripts
+- Joins
+- Data manipulation
+- SQL functions
 - Working with local SQLite/sample databases in DBeaver
+
+### R and Data Visualization
+
+- R fundamentals
+- tidyverse workflows
+- ggplot2 visualizations
+- Facets and geometric objects
+- Statistical transformations
+- Positional adjustments
+- Coordinate systems
+- R Markdown reporting
+- Hypothesis testing
+
+### Tableau
+
+- Chart creation
+- Filters
+- Dashboard design
+- Advanced Tableau features
+- Visual analytics
 
 ## Skills Practiced
 
 - Google Colab notebook workflows
 - Python fundamentals
+- R programming
+- R Markdown reporting
 - NumPy and pandas
+- tidyverse and ggplot2
 - CSV data imports
 - DataFrame inspection and exploration
 - Spreadsheet analysis
 - SQL querying
 - Descriptive and inferential statistics
 - Data visualization
+- Tableau dashboards
 - Pivot tables
 - Function-based coding practice
 - Notebook and project documentation
