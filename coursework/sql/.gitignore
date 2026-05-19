@@ -1,0 +1,13 @@
+# Large local database files used for coursework
+*.db
+*.sqlite
+*.sqlite3
+
+# Avoid publishing potentially sensitive exports
+*NationalID*
+*human_resources_employee*
+*employee_hre*
+
+# Local DBeaver/project files
+.dbeaver/
+*.bak
