@@ -1,0 +1,26 @@
+---
+title: "My First R Markdown Report"
+author: "Bryce Hales"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Introduction
+
+This is my first R Markdown report. It includes text, R code, and a visual output created in R.
+
+```{r load-packages}
+library(tidyverse)
+
+
+# Create a simple dataset
+data <- tibble(
+  x = 1:10,
+  y = x^2
+)
+
+# Plot the data
+ggplot(data, aes(x = x, y = y)) +
+  geom_line() +
+  labs(title = "Quadratic Plot")
+```
